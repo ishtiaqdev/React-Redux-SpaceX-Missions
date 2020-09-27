@@ -1,0 +1,32 @@
+.error {
+  color: #9f3a38
+}
+
+a {
+  width: 50% !important;
+  height: 130px;
+}
+
+.ui.menu.two.item .item {
+  width: 50% !important;
+  height: 70px;
+}
+
+.ui.card, .ui.cards > .card {
+  width: 96%;
+}
+
+a {
+  cursor: pointer;
+}
+
+.ui.cards, .ui.card {
+  margin-left: 0px !important;
+}
+
+.textbox {
+  width: 50%;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+}
