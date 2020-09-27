@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This a basic react-redux-rest-api-consumption application for showing json data from API and searching data from redux store locally. It also using enzyme for app testing. It currently uses SpaceX REST APIs for showing the data.
+This a basic react-redux-rest-api-consumption application for showing json data from API and searching data from redux store locally. It is also using enzyme for app testing. It currently uses SpaceX REST APIs for showing the data.
 
 ## Steps to run the application
 
